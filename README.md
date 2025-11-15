@@ -46,3 +46,23 @@ O aplicativo foi desenvolvido utilizando:
 │── /Utils # Helpers e funções de suporte
 │── HelpSeek.Desktop.csproj
 │── README.md
+
+
+Equipe de Desenvolvimento
+
+Abaixo estão as pessoas que contribuíram para o desenvolvimento do HelpSeek
+
+Emerson Victor 
+👉 GitHub: https://github.com/VictorMarquess
+
+Gustavo Santos Barra 
+👉 GitHub: https://github.com/Guuzra
+
+Khauan Gabriel 
+👉 GitHub: https://github.com/KhauaG
+
+Victor Castro 
+👉 GitHub: https://github.com/victorcastro-dev
+
+Derik Ferreira 
+👉 GitHub: https://github.com/derik07
