@@ -39,4 +39,10 @@ O aplicativo foi desenvolvido utilizando:
 ---
 
 ## 📦 Estrutura do Repositório
-
+/HelpSeek.Desktop
+│── /Forms # Telas do sistema (Login, Dashboard, Chamados, etc.)
+│── /Services # Classes de comunicação com a API
+│── /Models # Estrutura dos objetos (Usuario, Chamado, Interacao...)
+│── /Utils # Helpers e funções de suporte
+│── HelpSeek.Desktop.csproj
+│── README.md
